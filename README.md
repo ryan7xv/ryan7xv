@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan7xv&show_icons=true&theme=dracula)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,nodejs,react,discord,bots,figma,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,nodejs,react,angular,discord,bots,figma,vscode,windows)](https://skillicons.dev)
   
   ##
  
