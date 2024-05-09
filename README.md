@@ -1,4 +1,4 @@
-## Olá eu sou José Ryan, Estudante de programação Front End!
+## Olá eu sou José Ryan, Estudante de programação Front/Back!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan7xv&show_icons=true&theme=dracula)
